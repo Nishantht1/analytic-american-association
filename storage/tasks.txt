@@ -1,0 +1,88 @@
+TSK_000001|Documentation|True|230.0
+TSK_000002|Investigation|True|200.0
+TSK_000003|Business Settlement|True|290.0
+TSK_000004|Tax|True|650.0
+TSK_000005|Fallowups|False|0
+TSK_000006|Diverse|True|510.0
+TSK_000007|Vehical dealing|True|200.0
+TSK_000008|Land Dealing|True|330.0
+TSK_000009|Criminal Case dealing|True|730.0
+TSK_000010|Finance settlement|True|430.0
+TSK_000011|Client Communication|True|430.0
+TSK_000012|Documentation|True|230.0
+TSK_000013|Investigation|True|200.0
+TSK_000014|Business Settlement|True|290.0
+TSK_000015|Tax|True|650.0
+TSK_000016|Fallowups|False|0
+TSK_000017|Diverse|True|510.0
+TSK_000018|Vehical dealing|True|200.0
+TSK_000019|Land Dealing|True|330.0
+TSK_000020|Criminal Case dealing|True|730.0
+TSK_000021|Finance settlement|True|430.0
+TSK_000022|Client Communication|True|430.0
+TSK_000023|Documentation|True|230.0
+TSK_000024|Investigation|True|200.0
+TSK_000025|Business Settlement|True|290.0
+TSK_000026|Tax|True|650.0
+TSK_000027|Fallowups|False|0
+TSK_000028|Diverse|True|510.0
+TSK_000029|Vehical dealing|True|200.0
+TSK_000030|Land Dealing|True|330.0
+TSK_000031|Criminal Case dealing|True|730.0
+TSK_000032|Finance settlement|True|430.0
+TSK_000033|Client Communication|True|430.0
+TSK_000034|Documentation|True|230.0
+TSK_000035|Investigation|True|200.0
+TSK_000036|Business Settlement|True|290.0
+TSK_000037|Tax|True|650.0
+TSK_000038|Fallowups|False|0
+TSK_000039|Diverse|True|510.0
+TSK_000040|Vehical dealing|True|200.0
+TSK_000041|Land Dealing|True|330.0
+TSK_000042|Criminal Case dealing|True|730.0
+TSK_000043|Finance settlement|True|430.0
+TSK_000044|Client Communication|True|430.0
+TSK_000045|Documentation|True|230.0
+TSK_000046|Investigation|True|200.0
+TSK_000047|Business Settlement|True|290.0
+TSK_000048|Tax|True|650.0
+TSK_000049|Fallowups|False|0
+TSK_000050|Diverse|True|510.0
+TSK_000051|Vehical dealing|True|200.0
+TSK_000052|Land Dealing|True|330.0
+TSK_000053|Criminal Case dealing|True|730.0
+TSK_000054|Finance settlement|True|430.0
+TSK_000055|Client Communication|True|430.0
+TSK_000056|Documentation|True|230.0
+TSK_000057|Investigation|True|200.0
+TSK_000058|Business Settlement|True|290.0
+TSK_000059|Tax|True|650.0
+TSK_000060|Fallowups|False|0
+TSK_000061|Diverse|True|510.0
+TSK_000062|Vehical dealing|True|200.0
+TSK_000063|Land Dealing|True|330.0
+TSK_000064|Criminal Case dealing|True|730.0
+TSK_000065|Finance settlement|True|430.0
+TSK_000066|Client Communication|True|430.0
+TSK_000067|Documentation|True|230.0
+TSK_000068|Investigation|True|200.0
+TSK_000069|Business Settlement|True|290.0
+TSK_000070|Tax|True|650.0
+TSK_000071|Fallowups|False|0
+TSK_000072|Diverse|True|510.0
+TSK_000073|Vehical dealing|True|200.0
+TSK_000074|Land Dealing|True|330.0
+TSK_000075|Criminal Case dealing|True|730.0
+TSK_000076|Finance settlement|True|430.0
+TSK_000077|Client Communication|True|430.0
+TSK_000078|Documentation|True|230.0
+TSK_000079|Investigation|True|200.0
+TSK_000080|Business Settlement|True|290.0
+TSK_000081|Tax|True|650.0
+TSK_000082|Fallowups|False|0
+TSK_000083|Diverse|True|510.0
+TSK_000084|Vehical dealing|True|200.0
+TSK_000085|Land Dealing|True|330.0
+TSK_000086|Criminal Case dealing|True|730.0
+TSK_000087|Finance settlement|True|430.0
+TSK_000088|Client Communication|True|430.0

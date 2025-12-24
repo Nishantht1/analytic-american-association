@@ -1,0 +1,5 @@
+===== BILL =====
+bill_date   : 2025/12/12
+bill_hours  : 7.0
+bill_status : True
+client_id : CLT_000029

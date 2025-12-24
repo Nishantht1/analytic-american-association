@@ -1,0 +1,29 @@
+EMP_000001|Arjun|250.0|Arju.kanakala@gmail.com|9290279321|84/251/2|776|5|Nagulakatta|Kims Car servie|Hyderabad|Telangana|500018
+EMP_000002|John|150.0|john123.r@gmail.com|9298979321|84/2|524|102|Natara Nagar|Opposite to Udipi|Karimanagar|Telangana|50036
+EMP_000003|Saam|980.0|saam123.b@gmail.com|8970279321|256/251/6|6321|1|Chinna Circle|next to 5th cross|Banglore|Karnataka|510600
+EMP_000004|Singham|250.0|sin.am56@gmail.com|9290222321|84/251|478|8|Birmala Steet|Branded Mall Besides|Nijamabad|Telangana|518514
+EMP_000005|Raju|300.0|raju.kanakala@gmail.com|9990279321|A8/251/P|1234|402|Balaji Complex Line|Infront of Hond Show room|Gujiyabad|Gujarat|502415
+EMP_000006|Sekhar|800.0|sekhar9876543@gmail.com|9290279888|E4/2501/13B|7812|11|Telugu peta|Besides Relience Mart|Warangal|Telangana|578412
+EMP_000007|Arjun|250.0|Arju.kanakala@gmail.com|9290279321|84/251/2|776|5|Nagulakatta|Kims Car servie|Hyderabad|Telangana|500018
+EMP_000008|John|150.0|john123.r@gmail.com|9298979321|84/2|524|102|Natara Nagar|Opposite to Udipi|Karimanagar|Telangana|50036
+EMP_000009|Mick|470.0|mick.k78@gmail.com|9249279321|721/251/4|123|546|Dumpala Street|nearby Venkatesh Temple|Kurnool|Andhra Pradesh|502518
+EMP_000010|Reeno Renold|320.0|Rreeno.renold2@gmail.com|6290279321|84/001/5|5478|12|Highway road|Besides Pizza hurt|Vijayawada|Andhra Pradesh|502501
+EMP_000011|Saam|980.0|saam123.b@gmail.com|8970279321|256/251/6|6321|1|Chinna Circle|next to 5th cross|Banglore|Karnataka|510600
+EMP_000012|Bolt Reen|256.0|boltreeno@gmail.com|7120279321|63/251/7|2|41|chenamma circle|Above Airtel Office|Nandyal|Andhra Pradesh|524514
+EMP_000013|John Bjorn|206.0|johnbj09@gmail.com|9299879321|64/01/81|145|6|Gouse line|2nd floor Nalanda Scool building|Tirupati|Andhra Pradesh|581534
+EMP_000014|Singham|250.0|sin.am56@gmail.com|9290222321|84/251|478|8|Birmala Steet|Branded Mall Besides|Nijamabad|Telangana|518514
+EMP_000015|Raju|300.0|raju.kanakala@gmail.com|9990279321|A8/251/P|1234|402|Balaji Complex Line|Infront of Hond Show room|Gujiyabad|Gujarat|502415
+EMP_000016|Venumadhav|600.0|venu.m5555@gmail.com|8880279321|D456/251/12|546|645|CP Complex left line|Roshan Tent House|Vishakhapatnam|Andhra Pradesh|502631
+EMP_000017|Sekhar|800.0|sekhar9876543@gmail.com|9290279888|E4/2501/13B|7812|11|Telugu peta|Besides Relience Mart|Warangal|Telangana|578412
+EMP_000018|Arjun|250.0|Arju.kanakala@gmail.com|9290279321|84/251/2|776|5|Nagulakatta|Kims Car servie|Hyderabad|Telangana|500018
+EMP_000019|John|150.0|john123.r@gmail.com|9298979321|84/2|524|102|Natara Nagar|Opposite to Udipi|Karimanagar|Telangana|50036
+EMP_000020|Mick|470.0|mick.k78@gmail.com|9249279321|721/251/4|123|546|Dumpala Street|nearby Venkatesh Temple|Kurnool|Andhra Pradesh|502518
+EMP_000021|Reeno Renold|320.0|Rreeno.renold2@gmail.com|6290279321|84/001/5|5478|12|Highway road|Besides Pizza hurt|Vijayawada|Andhra Pradesh|502501
+EMP_000022|Saam|980.0|saam123.b@gmail.com|8970279321|256/251/6|6321|1|Chinna Circle|next to 5th cross|Banglore|Karnataka|510600
+EMP_000023|Bolt Reen|256.0|boltreeno@gmail.com|7120279321|63/251/7|2|41|chenamma circle|Above Airtel Office|Nandyal|Andhra Pradesh|524514
+EMP_000024|John Bjorn|206.0|johnbj09@gmail.com|9299879321|64/01/81|145|6|Gouse line|2nd floor Nalanda Scool building|Tirupati|Andhra Pradesh|581534
+EMP_000025|Andrino|110.0|a.andrino@gmail.com|9290279555|814/2/9|965|3|sanga peta|Nearby Café Coffee Day|Guntur|Andhra Pradesh|518506
+EMP_000026|Singham|250.0|sin.am56@gmail.com|9290222321|84/251|478|8|Birmala Steet|Branded Mall Besides|Nijamabad|Telangana|518514
+EMP_000027|Raju|300.0|raju.kanakala@gmail.com|9990279321|A8/251/P|1234|402|Balaji Complex Line|Infront of Hond Show room|Gujiyabad|Gujarat|502415
+EMP_000028|Venumadhav|600.0|venu.m5555@gmail.com|8880279321|D456/251/12|546|645|CP Complex left line|Roshan Tent House|Vishakhapatnam|Andhra Pradesh|502631
+EMP_000029|Sekhar|800.0|sekhar9876543@gmail.com|9290279888|E4/2501/13B|7812|11|Telugu peta|Besides Relience Mart|Warangal|Telangana|578412

@@ -1,0 +1,29 @@
+CLT_000001|Ravi Raju|Land Dealing|1050.0|Ravi.r.raju123@gmail.com|8290279321|K1/251/2|145|55|Peddamma Steet|Kims Car servie|Hyderabad|Telangana|500018
+CLT_000002|Kundan|I want a tax lawyer for my business|1002.0|k.kundan789@gmail.com|6298979321|22/20007|965|102|Natara Nagar|pochamma Temple|Karimanagar|Telangana|500036
+CLT_000003|Sohail Shiak|I want personal advise lawyer for me|980.0|sohail777@gmail.com|9070279321|KD6/251/6|546|32|Gudo Circle|Nearby Apple store|Banglore|Karnataka|510600
+CLT_000004|Laxman Raju|Required a lawyer to advise me on my organizational activities|1010.0|laxman.r456.k@gmail.com|9200079555|814-34/9|546|13|Centeric Road|kengeri road|Hubli|Karnataka|518506
+CLT_000005|Nikhil b|Want some legal adwise on my diverse|1250.0|nikhila.b423@gmail.com|9222222321|A123/251|89|12|Birmala Steet|Pet care shoup|Nijamabad|Telangana|518514
+CLT_000006|kumar kandavalli|A lawyer who advise me on contracts dealing and labour related activities|3000.0|kumar.k.kandavalli@gmail.com|9990279221|A8/251/P|41|402|Balaji Complex Line|Red port lane|Adilabad|Gujarat|502415
+CLT_000007|Ravi Raju|Land Dealing|1050.0|Ravi.r.raju123@gmail.com|8290279321|K1/251/2|145|55|Peddamma Steet|Kims Car servie|Hyderabad|Telangana|500018
+CLT_000008|Kundan|I want a tax lawyer for my business|1002.0|k.kundan789@gmail.com|6298979321|22/20007|965|102|Natara Nagar|pochamma Temple|Karimanagar|Telangana|500036
+CLT_000009|Marshal B|I have sold my vehicle but the person not paid full amount I wanted to proceed legally|7870.0|marshal.software@mail.com|9949279321|72-251/4|478|546|Dumpala Street|Lakshmi Fancy|Nandyal|Andhra Pradesh|502518
+CLT_000010|Reshab K|Required immigration lawyer|3220.0|reshab.kandula@gmail.com|9290279321|BD84-001/5|1234|45|Besides Flyover|opposite hond show room|Gudiwada|Andhra Pradesh|502501
+CLT_000011|Sohail Shiak|I want personal advise lawyer for me|980.0|sohail777@gmail.com|9070279321|KD6/251/6|546|32|Gudo Circle|Nearby Apple store|Banglore|Karnataka|510600
+CLT_000012|Soma Sekhar|Court  hearing advise|2001.0|soma.sekhar@gmail.com|7220279321|63/lk/7|7812|5|lerent|codec institute|Nandyal|Andhra Pradesh|524514
+CLT_000013|Sreenivasulu|I have House Mortagage issue|2306.0|sreenu.sri@gmail.com|9999879321|64/0/81|201|1|Anders lane|Kanal Statue|Chittor|Andhra Pradesh|581534
+CLT_000014|Laxman Raju|Required a lawyer to advise me on my organizational activities|1010.0|laxman.r456.k@gmail.com|9200079555|814-34/9|546|13|Centeric Road|kengeri road|Hubli|Karnataka|518506
+CLT_000015|Nikhil b|Want some legal adwise on my diverse|1250.0|nikhila.b423@gmail.com|9222222321|A123/251|89|12|Birmala Steet|Pet care shoup|Nijamabad|Telangana|518514
+CLT_000016|kumar kandavalli|A lawyer who advise me on contracts dealing and labour related activities|3000.0|kumar.k.kandavalli@gmail.com|9990279221|A8/251/P|41|402|Balaji Complex Line|Red port lane|Adilabad|Gujarat|502415
+CLT_000017|Venkatesh M|want to gather some evidance on one case|6010.0|venkatesh7@gmail.com|8880279300|D456/251-HT|679|645|CP Complex left line|Pedda banda steet|Ongole|Andhra Pradesh|502631
+CLT_000018|Ravi Raju|Land Dealing|1050.0|Ravi.r.raju123@gmail.com|8290279321|K1/251/2|145|55|Peddamma Steet|Kims Car servie|Hyderabad|Telangana|500018
+CLT_000019|Kundan|I want a tax lawyer for my business|1002.0|k.kundan789@gmail.com|6298979321|22/20007|965|102|Natara Nagar|pochamma Temple|Karimanagar|Telangana|500036
+CLT_000020|Marshal B|I have sold my vehicle but the person not paid full amount I wanted to proceed legally|7870.0|marshal.software@mail.com|9949279321|72-251/4|478|546|Dumpala Street|Lakshmi Fancy|Nandyal|Andhra Pradesh|502518
+CLT_000021|Reshab K|Required immigration lawyer|3220.0|reshab.kandula@gmail.com|9290279321|BD84-001/5|1234|45|Besides Flyover|opposite hond show room|Gudiwada|Andhra Pradesh|502501
+CLT_000022|Sohail Shiak|I want personal advise lawyer for me|980.0|sohail777@gmail.com|9070279321|KD6/251/6|546|32|Gudo Circle|Nearby Apple store|Banglore|Karnataka|510600
+CLT_000023|Soma Sekhar|Court  hearing advise|2001.0|soma.sekhar@gmail.com|7220279321|63/lk/7|7812|5|lerent|codec institute|Nandyal|Andhra Pradesh|524514
+CLT_000024|Sreenivasulu|I have House Mortagage issue|2306.0|sreenu.sri@gmail.com|9999879321|64/0/81|201|1|Anders lane|Kanal Statue|Chittor|Andhra Pradesh|581534
+CLT_000025|Laxman Raju|Required a lawyer to advise me on my organizational activities|1010.0|laxman.r456.k@gmail.com|9200079555|814-34/9|546|13|Centeric Road|kengeri road|Hubli|Karnataka|518506
+CLT_000026|Nikhil b|Want some legal adwise on my diverse|1250.0|nikhila.b423@gmail.com|9222222321|A123/251|89|12|Birmala Steet|Pet care shoup|Nijamabad|Telangana|518514
+CLT_000027|kumar kandavalli|A lawyer who advise me on contracts dealing and labour related activities|3000.0|kumar.k.kandavalli@gmail.com|9990279221|A8/251/P|41|402|Balaji Complex Line|Red port lane|Adilabad|Gujarat|502415
+CLT_000028|Venkatesh M|want to gather some evidance on one case|6010.0|venkatesh7@gmail.com|8880279300|D456/251-HT|679|645|CP Complex left line|Pedda banda steet|Ongole|Andhra Pradesh|502631
+CLT_000029|Ramesh Naik|Land Dealing|2200.0|ramesh.098@gmail.com|9000279888|E4/2501/13B|302|11|Telugu peta|nadigadda chicken mart|Maheboob nagar|Telangana|578412
